@@ -15,11 +15,11 @@
 # else:
 #     print(f'liczby są równe')
 
-outside_temp = int(input('Jaka jest temperatura?'))
-
-if outside_temp < 10:
-    print('zostań w domu')
-elif 10 <= outside_temp <= 20:
-    print(f'weź kurtkę')
-else:
-    print(f'elo mordo')
+# outside_temp = int(input('Jaka jest temperatura?'))
+#
+# if outside_temp < 10:
+#     print('zostań w domu')
+# elif 10 <= outside_temp <= 20:
+#     print(f'weź kurtkę')
+# else:
+#     print(f'elo mordo')
